@@ -1,23 +1,29 @@
-# RedStore E-Commerce Website
+# E-Commerce Website
 
-A modern and responsive E-Commerce landing page built primarily with HTML5 and CSS3. This project focuses on creating a clean user interface, responsive layouts, and an improved user experience across different screen sizes.
+A fully responsive E-Commerce Website built using HTML5, CSS3, and basic JavaScript. This project focuses on creating a modern user interface, responsive layouts, and a smooth user experience across different screen sizes.
 
-## Features
+---
 
-- Responsive Design for Desktop and Mobile Devices
+## 🚀 Features
+
+- Fully Responsive Design
 - Clean and Modern User Interface
 - Mobile Navigation Menu
 - Product Showcase Layout
-- Organized and Maintainable Code Structure
 - Cross-Device Compatibility
+- Organized and Maintainable Code Structure
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- Basic JavaScript (for Mobile Menu Toggle)
+- JavaScript (Mobile Navigation Menu)
 
-## Project Preview
+---
+
+## 📸 Project Preview
 
 ### Desktop View
 
@@ -27,24 +33,37 @@ A modern and responsive E-Commerce landing page built primarily with HTML5 and C
 
 ![Mobile View](screenshot/mobile-view.png)
 
-🚀 [View Live Demo](https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/E-Commerce-Website/)
+---
 
-💻 [View Source Code](https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/E-Commerce-Website)
+## 🌐 Live Demo
 
-## Learning Outcomes
+🔗 https://saiffarid-dev.github.io/ecommerce-website/
+
+---
+
+## 💻 Source Code
+
+🔗 https://github.com/saiffarid-dev/ecommerce-website
+
+---
+
+## 📚 Learning Outcomes
 
 Through this project, I practiced:
 
-- Building responsive layouts with CSS
-- Working with Flexbox and Media Queries
+- Building responsive layouts with HTML and CSS
+- Working with Flexbox
+- Using Media Queries for responsive design
 - Creating mobile-friendly navigation menus
-- Organizing project files and assets
+- Organizing project files professionally
 - Managing projects using Git and GitHub
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```text
-E-Commerce-Website
+ecommerce-website/
 │
 ├── media/
 ├── screenshot/
@@ -52,11 +71,24 @@ E-Commerce-Website
 │   └── mobile-view.png
 ├── index.html
 ├── style.css
+├── script.js
 └── README.md
 ```
 
-## Author
+---
 
-**Saif**
+## 📌 Project Status
 
-Python Full Stack Developer passionate about creating responsive web applications, clean user interfaces, and efficient digital solutions.
+✅ Completed
+
+---
+
+## 👨‍💻 Author
+
+**Saif Farid**
+
+GitHub: https://github.com/saiffarid-dev
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub.
